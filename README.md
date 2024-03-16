@@ -2,7 +2,7 @@
 
 <img src='./images/CT_SkillTest_v3.png' alt=''>
 
-## [LIVE DEMO](https://pasha-log.github.io/coalition-frontend-challenge/)
+## [LIVE DEMO]()
 
 ## Description: 
 
